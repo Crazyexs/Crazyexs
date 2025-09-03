@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Techit</h1>
+<h1 align="center">Hi 👋, I'm Tae</h1>
 <h3 style="text-align:center;">
   A student from Assumption College who is passionate about stuff like AI, Cybersecurity and Cars. Now I'm working on a project with <a href="https://th.linkedin.com/company/space-ac">SPACE AC Institute of Technology</a>.
 </h3>
